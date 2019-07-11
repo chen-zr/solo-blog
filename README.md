@@ -10,6 +10,8 @@ Chensr's Blog
 
 ### 最新
 
+* [Spring Cloud入门（9）- 分布式配置中心](https://blog.chensr.cn/articles/2019/07/10/1562770109913.html)
+* [Spring Cloud入门（8）- zuul 路由网关](https://blog.chensr.cn/articles/2019/07/10/1562768899858.html)
 * [Spring Cloud入门（7）- Hystrix断路器](https://blog.chensr.cn/articles/2019/07/09/1562683920499.html)
 * [Spring Cloud入门（6）- Feign负载均衡](https://blog.chensr.cn/articles/2019/07/09/1562682582022.html)
 * [Spring Cloud入门（5）- Ribbon负载均衡](https://blog.chensr.cn/articles/2019/07/09/1562679524694.html)
