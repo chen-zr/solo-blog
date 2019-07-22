@@ -10,6 +10,7 @@ Chensr's Blog
 
 ### 最新
 
+* [Git 入门（3）- Git 工作流](https://blog.chensr.cn/articles/2019/07/22/1563774088201.html)
 * [Dubbo入门（6）- Dubbo 原理](https://blog.chensr.cn/articles/2019/07/11/1562854013994.html)
 * [Dubbo入门（5）- 高可用](https://blog.chensr.cn/articles/2019/07/11/1562853920600.html)
 * [Dubbo入门（4）- dubbo 配置](https://blog.chensr.cn/articles/2019/07/11/1562853708669.html)
@@ -29,7 +30,6 @@ Chensr's Blog
 * [Spring Cloud入门（2）- SC是什么](https://blog.chensr.cn/articles/2019/07/09/1562676661578.html)
 * [Spring Cloud入门（1）- 概述](https://blog.chensr.cn/articles/2019/07/09/1562676605783.html)
 * [技术驱动 or 业务驱动？如何权衡？](https://blog.chensr.cn/articles/2019/07/09/1562676396263.html)
-* [Docker入门（5）- Dockerfile](https://blog.chensr.cn/articles/2019/07/09/1562676277707.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@ Chensr's Blog
 * [Docker入门（4）- 容器数据卷](https://blog.chensr.cn/articles/2019/07/09/1562676222190.html)
 * [Docker入门（3）- 镜像](https://blog.chensr.cn/articles/2019/07/09/1562676080520.html)
 * [Docker入门（2） - Docker 常用命令](https://blog.chensr.cn/articles/2019/07/09/1562675736192.html)
+* [Docker入门（5）- Dockerfile](https://blog.chensr.cn/articles/2019/07/09/1562676277707.html)
 
 
 
