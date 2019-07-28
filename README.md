@@ -10,6 +10,7 @@ Chensr's Blog
 
 ### 最新
 
+* [Windows MySQL 安装](https://blog.chensr.cn/articles/2019/07/28/1564243733459.html)
 * [学习 OAuth 2.0（阮一峰）](https://blog.chensr.cn/articles/2019/07/24/1563949634511.html)
 * [Git 入门（3）- Git 工作流](https://blog.chensr.cn/articles/2019/07/22/1563774088201.html)
 * [Dubbo入门（6）- Dubbo 原理](https://blog.chensr.cn/articles/2019/07/11/1562854013994.html)
@@ -29,7 +30,6 @@ Chensr's Blog
 * [Spring Cloud入门（4）- Eureka服务注册与发现](https://blog.chensr.cn/articles/2019/07/09/1562679420647.html)
 * [Spring Cloud入门（3）- 构建微服务工程](https://blog.chensr.cn/articles/2019/07/09/1562676728713.html)
 * [Spring Cloud入门（2）- SC是什么](https://blog.chensr.cn/articles/2019/07/09/1562676661578.html)
-* [Spring Cloud入门（1）- 概述](https://blog.chensr.cn/articles/2019/07/09/1562676605783.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@ Chensr's Blog
 * [Docker入门（3）- 镜像](https://blog.chensr.cn/articles/2019/07/09/1562676080520.html)
 * [Docker入门（5）- Dockerfile](https://blog.chensr.cn/articles/2019/07/09/1562676277707.html)
 * [技术驱动 or 业务驱动？如何权衡？](https://blog.chensr.cn/articles/2019/07/09/1562676396263.html)
+* [Spring Cloud入门（1）- 概述](https://blog.chensr.cn/articles/2019/07/09/1562676605783.html)
 
 
 
